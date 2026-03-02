@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Amal
 
-## Turning caffeine into code☕➡️💻
+## Turning caffeine into code ☕︎➡️💻
 
 💻 Java Spring Boot Developer  
-📍 India, kerala, kannur  
+📍 Kannur, Kerala, India  
 🚀 Passionate about Backend Development & Clean Architecture  
 
 ---
@@ -16,6 +16,7 @@ I’m a full-stack developer with a strong backend foundation in Java and Spring
 
 ## 🛠️ Tech Stack
 
+### 🚀 Backend & Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -24,6 +25,10 @@ I’m a full-stack developer with a strong backend foundation in Java and Spring
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧰 Tools
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
