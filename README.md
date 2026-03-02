@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 👋 Hi, I'm Amal
 
 💻 Java Spring Boot Developer  
@@ -37,4 +34,3 @@ I’m a full-stack developer with a strong backend foundation in Java and Spring
 ##GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amalal113112&theme=tokyonight)
--->
