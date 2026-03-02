@@ -27,7 +27,7 @@ I’m a full-stack developer with a strong backend foundation in Java and Spring
 
 ## 📊 GitHub Stats
 
-![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMAL113112&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMAL113112&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 ---
 
