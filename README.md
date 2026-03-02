@@ -8,6 +8,13 @@
 
 ---
 
+## 🌐 Live Portfolio
+
+🚀 Explore my interactive terminal portfolio:
+
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=gnometerminal&logoColor=00bfff)](https://amal113112.github.io/)
+
+---
 ## 🧑‍💻 About Me
 
 I’m a full-stack developer with a strong backend foundation in Java and Spring Boot, experienced in building REST APIs, designing relational databases, and structuring applications using clean architecture principles. While backend engineering is my core strength, I also enjoy working across the stack — turning ideas into complete, functional products and having some creative fun along the way.
