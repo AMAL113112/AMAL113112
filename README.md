@@ -25,12 +25,12 @@ I’m a full-stack developer with a strong backend foundation in Java and Spring
 
 ---
 
-##GitHub Stats
+## 📊 GitHub Stats
 
-![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalal113112&show_icons=true&theme=tokyonight)
+![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMAL113112&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
-##GitHub Streak
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=amalal113112&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AMAL113112&theme=tokyonight)
