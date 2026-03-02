@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Amal
 
+## Turning caffeine into code☕➡️💻
+
 💻 Java Spring Boot Developer  
-📍 Bangalore, India  
+📍 India, kerala, kannur  
 🚀 Passionate about Backend Development & Clean Architecture  
 
 ---
@@ -27,10 +29,14 @@ I’m a full-stack developer with a strong backend foundation in Java and Spring
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMAL113112&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMAL113112&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMAL113112&layout=compact&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AMAL113112&color=blue)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AMAL113112&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AMAL113112&theme=tokyonight&hide_border=true)
